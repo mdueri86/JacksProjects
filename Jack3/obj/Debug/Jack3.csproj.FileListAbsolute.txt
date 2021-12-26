@@ -1,0 +1,7 @@
+C:\Jack\Jack3\Jack3\bin\Debug\Jack3.exe.config
+C:\Jack\Jack3\Jack3\bin\Debug\Jack3.exe
+C:\Jack\Jack3\Jack3\bin\Debug\Jack3.pdb
+C:\Jack\Jack3\Jack3\obj\Debug\Jack3.csprojAssemblyReference.cache
+C:\Jack\Jack3\Jack3\obj\Debug\Jack3.csproj.CoreCompileInputs.cache
+C:\Jack\Jack3\Jack3\obj\Debug\Jack3.exe
+C:\Jack\Jack3\Jack3\obj\Debug\Jack3.pdb
