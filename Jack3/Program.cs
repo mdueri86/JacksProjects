@@ -16,7 +16,7 @@ namespace Jack3
 
 
             Jack j2 = new Jack();
-                j.eyecolor = "Brown";
+                j.eyecolor = "Green";
 
             Console.WriteLine(j.eyecolor);
             Console.WriteLine(j2.eyecolor);
