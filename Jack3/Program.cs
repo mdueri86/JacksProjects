@@ -22,6 +22,8 @@ namespace Jack3
             Console.WriteLine(j2.eyecolor);
 
             Console.ReadKey();
+
+            // some more stuff for the A branch.
         }
     }
 
