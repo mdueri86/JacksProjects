@@ -10,6 +10,9 @@ namespace Jack3
     {
         static void Main(string[] args)
         {
+
+            // this is a test comment for merging.
+
             Jack j = new Jack();
             j.height = 40;
             j.weight = 80;
